@@ -33,7 +33,7 @@ Los datos son provistos en archivos de diferentes extensiones, como *csv* o *jso
 
 
 ## **Pueden ver el video resumen de como realizé este proyecto en el siguiente link:**
-https://youtu.be/dNOWvYOh5yc
+https://youtu.be/c5563VUuqrs
 
 
 ## **Conceptos de interés**
